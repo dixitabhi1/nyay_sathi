@@ -120,9 +120,11 @@ red-black-legal-chatbot/
 - **Document Generation**: HTML-based FIR document creation
 - **API Endpoints**: RESTful API for chat and document download
 
+
+
 ### Frontend
 - **Design**: Responsive HTML5/CSS3 with card theme
-- **JavaScript**: Vanilla JS for real-time interactions
+- **JavaScript**:  JS for real-time interactions
 - **Styling**: Custom CSS with red and black color scheme
 - **Layout**: Split-screen design with flexbox
 
